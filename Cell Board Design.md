@@ -2,4 +2,5 @@ According to this (https://batteryuniversity.com/index.php/learn/article/chargin
 
 Each battery pack is managed by a pack controller board. This board is elecgtrically isolated from the battery back. It controls a set of relays that switch each battery beween two sets of rails, a primary rail, and a secondary rail. It continually reads the voltage of the primary rail, in addition to the secondary rail. Because one or more batteries can be switched to the secondary rail, isolated voltage readings from individual batteries can be invoked.
 
-The pack controller board contains two busses. Each bus has a positive rail and a negative rail and each is capable of conducting 30 amps. 
+The pack controller board contains two busses. Each bus has a positive rail and a negative rail and each is capable of conducting 30 amps. There is am opto-isolated DTDP relay that switched the battery between the two busses. One bus (A) is a series connection between the neighboring layers, while the other bus is local, and can optionally connect to a service bus through yet another DTDP relay.
+  
