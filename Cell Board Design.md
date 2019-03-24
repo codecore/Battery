@@ -4,3 +4,4 @@ Each battery pack is managed by a pack controller board. This board is elecgtric
 
 The pack controller board contains two busses. Each bus has a positive rail and a negative rail and each is capable of conducting 30 amps. There is am opto-isolated DTDP relay that switched the battery between the two busses. One bus (A) is a series connection between the neighboring layers, while the other bus is local, and can optionally connect to a service bus through yet another DTDP relay.
   
+Another article:  https://medium.com/s/how-batteries-work/why-batteries-die-d8281e15f6c8
