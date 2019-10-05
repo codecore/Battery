@@ -1,0 +1,64 @@
+Owned LI Batteries power storage:
+Each 21700 can do 14.8 watt hours
+30 units * 3.7 volts (nominal) * 4 amps * 1 hour = 444  watt hours
+A scooter has 18.2Ah/52V or about 946 watt hours and around 64 batteries of my 40T class cells.
+
+The 50hp motor has a current rating of 55.4 amps if its power factor is 0.8.
+One horsepower is 746 watts
+    50 horsepower is 37.3 KW.
+
+Charging Ports:
+    J1772 Charge Port for Level 1 & 2 Home or Public Charging
+
+https://www.zelectricmotors.com/the-build
+    Electric 3-Phase 65KW AC Motor
+    27 kWh Lithium Battery Pack
+    100+ mile Range Battery Pack
+    Regen Braking
+    120 foot-pounds of Instant Torque
+Motors:
+    3-Phase AC http://www.surplusindustrialsupply.com/used-three-phase-motors-for-sale-tph.html
+
+Motor Mounts (Frame):
+    Model     Count
+    100L      1
+    S286T     1
+    56        2
+    56C       4
+    56Z       1
+    182TC     1
+    184C      4
+    184JM     1
+    42Z       6
+    404T      1
+    284ST     1
+    145T      3
+    213       2
+    256LP     1
+    
+    Power information:
+        From https://www.ewheels.com/comparing-segway-ninebot-s1-inmotion-v5f-feature-review/
+        The King Song 14D does 800W and 420 WH range (est) 21 miles. (est 28 40T class batteries)
+            Scooter range est is 1 mile per watt hour.
+            A specific scooter (Turbowheel Ligtening) has 18.2Ah/52V (est 64 40T class batteries)
+        The Honda Gold Wing or GL1800 as it’s additionally known
+            The four-stroke, level six engine dislodges 1,832 cc
+            116 bhp at 5,500 rpm
+            max torque of 167 Nm at 4,000 rpm
+            
+       The Zero ZF has this capacity:
+           14.4 kWh   18.0 kWh
+           116 ft-lb (157 Nm)
+           70 hp (52 kW) @ 3,500 rpm
+       https://www.ewheels.com/product/new-turbowheel-lightning-957wh-battery-2x-1000w-3600w-motors/
+       957Wh/1165Wh Battery, 2x 1000W (3600W) Motors
+       
+       58.8v/5A Rapid-charger
+       $125
+       LCD display
+       variable current
+       battery extending partial charging setting
+       dual-input voltage
+       reset switch
+       3-pin GX16 connector
+       
