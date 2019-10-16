@@ -9,7 +9,17 @@ One horsepower is 746 watts
 
 Charging Ports:
     J1772 Charge Port for Level 1 & 2 Home or Public Charging
-
+    https://www.greencarreports.com/news/1124639_chademo-fast-charging-stations-still-outnumber-ccs-ones
+    CHAdeMO http://www.chademo.com/
+    CCS Combined Charging System
+    
+    CHAdeMO connector—just one, in most cases, running at 50 kw 100-kw CHAdeMO
+    Example connector:
+        Rated voltage: 500 V
+        Rated current: 125A
+    
+    CCS connectors’ 150 kw or 350 kw. 
+    
 https://www.zelectricmotors.com/the-build
     Electric 3-Phase 65KW AC Motor
     27 kWh Lithium Battery Pack
